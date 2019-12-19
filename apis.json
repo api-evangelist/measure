@@ -1,0 +1,50 @@
+{
+    "name": "Measure",
+    "description": "<p>Measure operates turnkey drone solutions to deliver cost-effective actionable data to enterprise customers. Measure was founded specifically to help customers avoid the capital expense and operating risks of establishing their own drone programs and to purchase drone support in a way which better fits their operations and cost profiles. In a market largely comprised of manufacturers, Measure is the model for how drone services will develop and grow in the future.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/measure-logo.png",
+    "tags": [
+        "api provider",
+        "drones",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/measure\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Measure",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/measure-logo.png",
+            "humanURL": "http:\/\/measure.aero",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/measure-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.measure.aero\/insights\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.measure.aero\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/droneasaservice"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/measure.aero"
+        }
+    ]
+}
